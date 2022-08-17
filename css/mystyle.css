@@ -1,0 +1,25 @@
+/*Task1 */
+.img_place {
+    height: 200px;
+    line-height: 12;
+}
+/*Task2*/
+
+
+.img_block {
+    background: lightgrey;
+    line-height: 12;
+}
+
+.action_card {
+    height: 150px;
+    line-height: 10;
+}
+
+.footer_block {
+    height: 100px;
+    line-height: 6;
+}
+/*Task 3*/
+.lavander{
+    background: #E6E6FA;}
